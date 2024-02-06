@@ -17,6 +17,5 @@ To execute the program:
     3. Open the terminal/command prompt and navigate to the directory containing the program files
     4. Compile the program by running: 'dotnet build'
     5. Run the compiled program by running: 'dotnet run'
-    6. Follow the on screen instructions to explore the shell command program
-
-    or if you have Visual Studios installed, open the solution file and compile the program.
+    6. Enter the integer number of the command you want to execute and follow any further instructions
+    7. or if you have Visual Studios installed, open the solution file and compile the program in C#
